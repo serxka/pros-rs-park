@@ -1,0 +1,10 @@
+[package]
+name = "pros-rs"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Parked crate for github.com/serxka/pros-rs"
+repository = "https://github.com/serxkA/pros-rs-park"
+authors = ["serxka <serxka@protonmail.com>"]
+
+[dependencies]
